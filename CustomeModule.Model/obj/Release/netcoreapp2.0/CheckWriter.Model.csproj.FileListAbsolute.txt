@@ -1,0 +1,9 @@
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Model\bin\Release\netcoreapp2.0\CheckWriter.Model.deps.json
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Model\bin\Release\netcoreapp2.0\CheckWriter.Model.dll
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Model\bin\Release\netcoreapp2.0\CheckWriter.Model.pdb
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Model\obj\Release\netcoreapp2.0\CheckWriter.Model.csprojAssemblyReference.cache
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Model\obj\Release\netcoreapp2.0\CheckWriter.Model.csproj.CoreCompileInputs.cache
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Model\obj\Release\netcoreapp2.0\CheckWriter.Model.AssemblyInfoInputs.cache
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Model\obj\Release\netcoreapp2.0\CheckWriter.Model.AssemblyInfo.cs
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Model\obj\Release\netcoreapp2.0\CheckWriter.Model.dll
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Model\obj\Release\netcoreapp2.0\CheckWriter.Model.pdb

@@ -1,0 +1,16 @@
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Services\bin\Debug\netcoreapp2.0\CheckWriter.Services.deps.json
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Services\bin\Debug\netcoreapp2.0\CheckWriter.Services.dll
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Services\bin\Debug\netcoreapp2.0\CheckWriter.Services.pdb
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Services\bin\Debug\netcoreapp2.0\CheckWriter.Interfaces.dll
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Services\bin\Debug\netcoreapp2.0\CheckWriter.Model.dll
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Services\bin\Debug\netcoreapp2.0\CheckWriter.Repository.dll
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Services\bin\Debug\netcoreapp2.0\CheckWriter.Interfaces.pdb
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Services\bin\Debug\netcoreapp2.0\CheckWriter.Repository.pdb
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Services\bin\Debug\netcoreapp2.0\CheckWriter.Model.pdb
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Services\obj\Debug\netcoreapp2.0\CheckWriter.Services.csprojAssemblyReference.cache
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Services\obj\Debug\netcoreapp2.0\CheckWriter.Services.csproj.CoreCompileInputs.cache
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Services\obj\Debug\netcoreapp2.0\CheckWriter.Services.AssemblyInfoInputs.cache
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Services\obj\Debug\netcoreapp2.0\CheckWriter.Services.AssemblyInfo.cs
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Services\obj\Debug\netcoreapp2.0\CheckWriter.Services.csproj.CopyComplete
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Services\obj\Debug\netcoreapp2.0\CheckWriter.Services.dll
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Services\obj\Debug\netcoreapp2.0\CheckWriter.Services.pdb

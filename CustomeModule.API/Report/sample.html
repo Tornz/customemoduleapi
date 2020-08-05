@@ -1,0 +1,98 @@
+<style>
+    .main-container{
+        width:100%;
+        padding: 20px;
+    }
+    .header,.header a, .center{
+        display: table;
+        margin: 0 auto;
+    }
+    .header-name{
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .label{
+        font-size: 14px;
+        font-weight: bold;
+        width:25%;
+        float:left
+    }
+
+    .body-details, .body-table{
+        /*padding: 10px;*/
+        width: 50%;
+        margin-top:5%;
+    }
+    .body-details-info{
+        padding: 5px;
+        float: left;
+        width:100%;
+    }
+    .body-value{
+        float:left;
+    }
+    td{
+        text-align: center;
+    }
+
+    table {
+    border-collapse: collapse;
+    }
+
+    table, th, td {
+        border: 1px solid black;
+    }
+</style>
+
+<div class="main-container">
+    <div class="header">
+        <div class="header-name"><a>University of the Philippines Los Banos</a></div>
+        <div class="header-address"><a>Los Banos, Laguna Philippines</a></div>
+        <div class="header-contact"><a>811234/1256</a></div>
+    </div>
+    <div class="body-details center">
+        <div class="body-details-info">
+            <div class="label"><label  for="year">Academic Year:</label></div>
+            <div class="body-value"><a id="year">2018-2019</a></div>
+        </div>
+        <div class="body-details-info">
+            <div class="label"><label  for="term">Term:</label></div>
+            <div class="body-value"><a id="term">First Semester</a></div>
+        </div>
+        <div class="body-details-info">
+            <div class="label"><label  for="course-level">Course/Level:</label></div>
+            <div class="body-value"><a id="course-level">BSIT-IV</a></div>
+        </div>
+        <div class="body-details-info">
+            <div class="label"><label  for="batch">Class Batch:</label></div>
+            <div class="body-value"><a id="batch">Section A</a></div>
+        </div>
+    </div>
+    <div class="body-table center">
+            <table style="width:100%">
+                <tr><th style="background:red"colspan=5>List of Applicants</th></tr>
+                    <tr>
+                      <th>No.</th>
+                      <th>Applicant ID</th> 
+                      <th>Applicant Type</th>
+                      <th>Applicant Name</th>
+                      <th>Gender</th>
+                    </tr>
+                    <tr>
+                      <td>Jill</td>
+                      <td>Smith</td> 
+                      <td>50</td>
+                      <td>50</td>
+                      <td>50</td>
+                    </tr>
+                    <tr>
+                      <td>Eve</td>
+                      <td>Jackson</td> 
+                      <td>94</td>
+                      <td>94</td>
+                      <td>94</td>
+                    </tr>
+                  </table>
+    </div>
+</div>

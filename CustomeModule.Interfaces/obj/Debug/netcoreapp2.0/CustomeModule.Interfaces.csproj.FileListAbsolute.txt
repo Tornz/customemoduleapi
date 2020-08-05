@@ -1,0 +1,12 @@
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Interfaces\bin\Debug\netcoreapp2.0\CustomeModule.Interfaces.deps.json
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Interfaces\bin\Debug\netcoreapp2.0\CustomeModule.Interfaces.dll
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Interfaces\bin\Debug\netcoreapp2.0\CustomeModule.Interfaces.pdb
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Interfaces\bin\Debug\netcoreapp2.0\CustomeModule.Model.dll
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Interfaces\bin\Debug\netcoreapp2.0\CustomeModule.Model.pdb
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Interfaces\obj\Debug\netcoreapp2.0\CustomeModule.Interfaces.csprojAssemblyReference.cache
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Interfaces\obj\Debug\netcoreapp2.0\CustomeModule.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Interfaces\obj\Debug\netcoreapp2.0\CustomeModule.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Interfaces\obj\Debug\netcoreapp2.0\CustomeModule.Interfaces.AssemblyInfo.cs
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Interfaces\obj\Debug\netcoreapp2.0\CustomeModule.Interfaces.csproj.CopyComplete
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Interfaces\obj\Debug\netcoreapp2.0\CustomeModule.Interfaces.dll
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Interfaces\obj\Debug\netcoreapp2.0\CustomeModule.Interfaces.pdb

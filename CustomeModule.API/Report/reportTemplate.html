@@ -1,0 +1,160 @@
+<style>
+body{
+    margin:0px;
+    font-family: Calibri;
+}
+table {
+    border-spacing: 1;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+table * {
+  position: relative;
+}
+table td, table th {
+  padding-left: 8px;
+  font-family: Calibri;
+  
+}
+table thead tr {
+  height: 60px;
+  background: #007ad9;
+}
+table tbody tr {
+  height: 50px;
+}
+table tbody tr:last-child {
+  border: 0;
+}
+table td, table th {
+  text-align: left;
+}
+table td.l, table th.l {
+  text-align: right;
+}
+table td.c, table th.c {
+  text-align: center;
+}
+table td.r, table th.r {
+  text-align: center;
+}
+tbody tr:nth-child(even) {
+  background-color: #EAF3F3;
+}
+
+tbody tr {
+  font-family: OpenSans-Regular;
+  font-size: 16px;
+  color: black;
+  line-height: 1.2;
+  font-weight: unset;
+}
+
+.label{
+    font-size: 20px;
+    font-weight: bold;
+    width:25%;
+    float:left;
+}
+.body-value{
+    float:left;
+    font-size: 16px;
+}
+
+.body-details-info{
+    padding: 5px;
+    float: left;
+    width:100%;
+}
+
+.center {
+    display: table;
+    margin: 0 auto;
+}
+.header-name{
+    font-size: 50px;
+    font-weight: bold;
+}
+.header-address{
+    font-size: 20px;
+}
+.header-contact{
+    font-size: 14px;
+    font-style: italic;
+}
+.main-container{
+    width:100%;
+    /*padding: 20px;*/
+}
+
+.body-details{
+    margin-top:5%;
+    width:100%;
+    padding:20px;
+}
+
+.body-table {
+    margin-top:5%;
+    width:100%;
+    
+    padding:20px;
+}
+.header{
+    text-align: center;
+    border-radius: 5px;
+    padding:2%;
+}
+
+</style>
+
+<div class="main-container">
+    <div class="header center">
+        <div class="header-name"><a>{{data.0.sclient_name}}</a></div>
+        <div class="header-address"><a>{{data.0.saddress}}</a></div>
+        <div class="header-contact"><a>{{data.0.sphone_no1}}/{{data.0.sphone_no2}}/{{data.0.sfax_no}}</a></div>
+    </div>
+    <div class="body-details center">
+        <div class="body-details-info">
+            <div class="label"><label  for="year">Academic Year:</label></div>
+            <div class="body-value" ><a id="year">{{data.0.sacademic_year}}</a></div>
+        </div>
+        <div class="body-details-info">
+            <div class="label"><label  for="term">Term:</label></div>
+            <div class="body-value"><a id="term">{{data.0.ssession_type}}</a></div>
+        </div>
+        <div class="body-details-info">
+            <div class="label"><label  for="course-level">Course/Level:</label></div>
+            <div class="body-value"><a id="course-level">{{data.0.scourse_code}}-{{data.0.scourse_level}}</a></div>
+        </div>
+        <div class="body-details-info">
+            <div class="label"><label  for="batch">Class Batch:</label></div>
+            <div class="body-value"><a id="batch">{{data.0.sbatch_name}}</a></div>
+        </div>
+    </div>
+    <div class="body-table center">
+            <table style="width:100%;border-collapse: collapse">
+                <tr style="background: #167F92; color:white;font-size: 20px"><th colspan="5" style="text-align: center">List of Applicants</th></tr>
+                    <tr>
+                      <th>No.</th>
+                      <th>Applicant ID</th> 
+                      <th>Applicant Type</th>
+                      <th>Applicant Name</th>
+                      <th>Gender</th>
+                    </tr>
+                {{#each data}}
+                    <tr>
+                      <td>{{inc @index}}</td>
+                      <td>{{napplication_id}}</td> 
+                      <td>{{applicant_type}}</td>
+                      <td>{{fullname}}</td>
+                      <td>{{nuser_gender}}</td>
+                    </tr>
+                {{/each}}
+                  </table>
+    </div>
+</div>

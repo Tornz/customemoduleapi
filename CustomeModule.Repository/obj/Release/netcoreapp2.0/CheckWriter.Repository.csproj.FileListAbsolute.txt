@@ -1,0 +1,14 @@
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Repository\bin\Release\netcoreapp2.0\CheckWriter.Repository.deps.json
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Repository\bin\Release\netcoreapp2.0\CheckWriter.Repository.dll
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Repository\bin\Release\netcoreapp2.0\CheckWriter.Repository.pdb
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Repository\bin\Release\netcoreapp2.0\CheckWriter.Interfaces.dll
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Repository\bin\Release\netcoreapp2.0\CheckWriter.Model.dll
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Repository\bin\Release\netcoreapp2.0\CheckWriter.Interfaces.pdb
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Repository\bin\Release\netcoreapp2.0\CheckWriter.Model.pdb
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Repository\obj\Release\netcoreapp2.0\CheckWriter.Repository.csprojAssemblyReference.cache
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Repository\obj\Release\netcoreapp2.0\CheckWriter.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Repository\obj\Release\netcoreapp2.0\CheckWriter.Repository.AssemblyInfoInputs.cache
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Repository\obj\Release\netcoreapp2.0\CheckWriter.Repository.AssemblyInfo.cs
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Repository\obj\Release\netcoreapp2.0\CheckWriter.Repository.csproj.CopyComplete
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Repository\obj\Release\netcoreapp2.0\CheckWriter.Repository.dll
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Repository\obj\Release\netcoreapp2.0\CheckWriter.Repository.pdb

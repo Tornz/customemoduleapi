@@ -1,0 +1,9 @@
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Security\bin\Debug\netcoreapp2.0\CustomerModule.Security.deps.json
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Security\bin\Debug\netcoreapp2.0\CustomerModule.Security.dll
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Security\bin\Debug\netcoreapp2.0\CustomerModule.Security.pdb
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Security\obj\Debug\netcoreapp2.0\CustomerModule.Security.csprojAssemblyReference.cache
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Security\obj\Debug\netcoreapp2.0\CustomerModule.Security.csproj.CoreCompileInputs.cache
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Security\obj\Debug\netcoreapp2.0\CustomerModule.Security.AssemblyInfoInputs.cache
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Security\obj\Debug\netcoreapp2.0\CustomerModule.Security.AssemblyInfo.cs
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Security\obj\Debug\netcoreapp2.0\CustomerModule.Security.dll
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Security\obj\Debug\netcoreapp2.0\CustomerModule.Security.pdb

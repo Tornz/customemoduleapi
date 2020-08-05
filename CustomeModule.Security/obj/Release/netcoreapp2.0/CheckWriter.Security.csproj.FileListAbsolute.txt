@@ -1,0 +1,9 @@
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Security\bin\Release\netcoreapp2.0\CheckWriter.Security.deps.json
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Security\bin\Release\netcoreapp2.0\CheckWriter.Security.dll
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Security\bin\Release\netcoreapp2.0\CheckWriter.Security.pdb
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Security\obj\Release\netcoreapp2.0\CheckWriter.Security.csprojAssemblyReference.cache
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Security\obj\Release\netcoreapp2.0\CheckWriter.Security.csproj.CoreCompileInputs.cache
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Security\obj\Release\netcoreapp2.0\CheckWriter.Security.AssemblyInfoInputs.cache
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Security\obj\Release\netcoreapp2.0\CheckWriter.Security.AssemblyInfo.cs
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Security\obj\Release\netcoreapp2.0\CheckWriter.Security.dll
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Security\obj\Release\netcoreapp2.0\CheckWriter.Security.pdb

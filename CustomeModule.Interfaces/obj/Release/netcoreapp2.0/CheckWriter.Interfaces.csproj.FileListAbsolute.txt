@@ -1,0 +1,12 @@
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Interfaces\bin\Release\netcoreapp2.0\CheckWriter.Interfaces.deps.json
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Interfaces\bin\Release\netcoreapp2.0\CheckWriter.Interfaces.dll
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Interfaces\bin\Release\netcoreapp2.0\CheckWriter.Interfaces.pdb
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Interfaces\bin\Release\netcoreapp2.0\CheckWriter.Model.dll
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Interfaces\bin\Release\netcoreapp2.0\CheckWriter.Model.pdb
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Interfaces\obj\Release\netcoreapp2.0\CheckWriter.Interfaces.csprojAssemblyReference.cache
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Interfaces\obj\Release\netcoreapp2.0\CheckWriter.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Interfaces\obj\Release\netcoreapp2.0\CheckWriter.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Interfaces\obj\Release\netcoreapp2.0\CheckWriter.Interfaces.AssemblyInfo.cs
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Interfaces\obj\Release\netcoreapp2.0\CheckWriter.Interfaces.csproj.CopyComplete
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Interfaces\obj\Release\netcoreapp2.0\CheckWriter.Interfaces.dll
+C:\Users\Cynthia\Source\Workspaces\CheckWriter API\CheckWriter.Interfaces\obj\Release\netcoreapp2.0\CheckWriter.Interfaces.pdb

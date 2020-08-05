@@ -1,0 +1,16 @@
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Services\bin\Debug\netcoreapp2.0\CustomeModule.Services.deps.json
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Services\bin\Debug\netcoreapp2.0\CustomeModule.Services.dll
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Services\bin\Debug\netcoreapp2.0\CustomeModule.Services.pdb
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Services\bin\Debug\netcoreapp2.0\CustomeModule.Interfaces.dll
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Services\bin\Debug\netcoreapp2.0\CustomeModule.Model.dll
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Services\bin\Debug\netcoreapp2.0\CustomeModule.Repository.dll
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Services\bin\Debug\netcoreapp2.0\CustomeModule.Interfaces.pdb
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Services\bin\Debug\netcoreapp2.0\CustomeModule.Repository.pdb
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Services\bin\Debug\netcoreapp2.0\CustomeModule.Model.pdb
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Services\obj\Debug\netcoreapp2.0\CustomeModule.Services.csprojAssemblyReference.cache
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Services\obj\Debug\netcoreapp2.0\CustomeModule.Services.csproj.CoreCompileInputs.cache
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Services\obj\Debug\netcoreapp2.0\CustomeModule.Services.AssemblyInfoInputs.cache
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Services\obj\Debug\netcoreapp2.0\CustomeModule.Services.AssemblyInfo.cs
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Services\obj\Debug\netcoreapp2.0\CustomeModule.Services.csproj.CopyComplete
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Services\obj\Debug\netcoreapp2.0\CustomeModule.Services.dll
+C:\Users\Cynthia\source\repos\customemoduleapi\CustomeModule.Services\obj\Debug\netcoreapp2.0\CustomeModule.Services.pdb
