@@ -68,7 +68,7 @@ namespace CustomeModule.API
             services.AddAuthorization(options =>
             {
                 options.AddPolicy("Member",
-                    policy => policy.RequireClaim("SecCustomeModule"));
+                    policy => policy.RequireClaim("SecurityCustomeModule"));
             });
 
             services.AddDbContext<CustomerModuleContext>(r => r.UseMySQL(_configuration.GetConnectionString("CheckWriterConnectionString")));

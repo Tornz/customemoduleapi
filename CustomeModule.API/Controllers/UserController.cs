@@ -21,13 +21,12 @@ namespace CustomeModule.API.Controllers
     {
         private IUserService _userService;
         private IGlobalServices _globalService;
-        private readonly IHostingEnvironment _hostingEnvironment;
+        private IHostingEnvironment _hostingEnvironment;
         private IMailHandler _handler;
 
 
         public UserController(IUserService userService, IGlobalServices globalService, 
-            IHostingEnvironment hostingEnvironment, IMailHandler handler
-            )
+            IHostingEnvironment hostingEnvironment, IMailHandler handler )
         {
             _userService = userService;
             _globalService = globalService;
@@ -446,54 +445,6 @@ namespace CustomeModule.API.Controllers
                         {
                             file.CopyTo(fileStream);
                             _userService.updateImagePath(id, fileSave);
-                            _userService.Commit();
-                        }
-                    }
-                }
-
-                response.StatusCode = (int)HttpStatusCode.OK;
-                response.Success = "Y";
-                response.Message = fileSave;
-
-            }
-            catch (Exception ex)
-            {
-                response.StatusCode = (int)HttpStatusCode.InternalServerError;
-                response.Message = ex.Message;
-                response.Success = "N";
-            }
-
-            return response.ToHttpResponse();
-        }
-
-        [HttpPost("UploadSignaure/{id}")]
-        public IActionResult UploadSignaure(int id)
-        {
-            var response = new SingleModelResponse<User>() as ISingleModelResponse<User>;
-
-            try
-            {
-                var file11 = Request.Form.Files;
-                string physicalWebRootPath = _hostingEnvironment.WebRootPath.ToString() + "\\Signature\\";
-                string fileSave = string.Empty;
-                foreach (var file in file11)
-                {
-                    if (!IsValidImageFile(file.ContentType))
-                    {
-                        return Json(new { errMsg = "" });
-                    }
-
-                    if (file.Length > 0)
-                    {
-                        string forupload = physicalWebRootPath + "Signature_" + id + Path.GetExtension(file.FileName);
-                        fileSave = Url.Content("~/Signature/Signature_" + id + Path.GetExtension(file.FileName));
-                        if (System.IO.File.Exists(forupload))
-                        { System.IO.File.Delete(forupload); }
-
-                        using (var fileStream = new FileStream(Path.Combine(physicalWebRootPath, "Signature_" + id + Path.GetExtension(file.FileName)), FileMode.Create))
-                        {
-                            file.CopyTo(fileStream);
-                            _userService.updateSignature(id, fileSave);
                             _userService.Commit();
                         }
                     }

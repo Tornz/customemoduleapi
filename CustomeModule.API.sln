@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerModule.Security", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomeModule.Interfaces", "CustomeModule.Interfaces\CustomeModule.Interfaces.csproj", "{3541FEB0-4E8E-4260-963F-0241FF324A53}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomeModule.Test", "CustomerModule.Test\CustomeModule.Test.csproj", "{64C9A6B6-8C86-44BA-86E6-8DAE6CFB5B77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{3541FEB0-4E8E-4260-963F-0241FF324A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3541FEB0-4E8E-4260-963F-0241FF324A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3541FEB0-4E8E-4260-963F-0241FF324A53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C9A6B6-8C86-44BA-86E6-8DAE6CFB5B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C9A6B6-8C86-44BA-86E6-8DAE6CFB5B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C9A6B6-8C86-44BA-86E6-8DAE6CFB5B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C9A6B6-8C86-44BA-86E6-8DAE6CFB5B77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

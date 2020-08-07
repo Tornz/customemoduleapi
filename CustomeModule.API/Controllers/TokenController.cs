@@ -44,7 +44,7 @@ namespace CustomeModule.API.Controllers
                                     .AddSubject(subject)
                                     .AddIssuer("CustomeModule.Security.Bearer")
                                     .AddAudience("CustomeModule.Security.Bearer")
-                                    .AddClaim("SecCustomeModule", "001")
+                                    .AddClaim("SecurityCustomeModule", "001")
                                     .AddExpiry(5)                                   
                                     .Build();
                     validated.username = "";
